@@ -2,6 +2,10 @@
 
 Welcome! Here is the code for the paper **EPEE: Towards Efficient and Effective Foundation Models in Biomedicine**.
 
+For the NLP part, I modified the code from [PCEE](https://github.com/michael-wzhu/PCEE-BERT) and add new model: ALBERT and GPT2.
+
+For the CV part, inspired by PCEE, I implemented the code for the ViT model.
+
 ### data
 
 The datasets we used are mainly public. Please use the following link to find the corresponding dataset.
