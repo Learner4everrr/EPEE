@@ -23,5 +23,12 @@ The datasets we used are mainly public. Please use the following link to find th
 [PathMNIST, PneumoniaMNIST, DermaMNIST, BloodMNIST and BreastMNIST](https://medmnist.com/}{https://medmnist.com/)
 
 ### How to use the code
-I will update this soon.
+
+Submit to MSI via Slurm
+
+```bash
+sbatch job_1.sh.sh
+```
+
+I will update more details after submission.
 
